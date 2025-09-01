@@ -1,3 +1,4 @@
+// 2. Área de um Círculo - Desenvolva um programa que leia o raio de um círculo e calcule sua área(Considere π = 3.14159).
 package Exercicio02;
 
 import java.util.Scanner;
