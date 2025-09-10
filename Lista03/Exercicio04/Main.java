@@ -18,7 +18,7 @@ public class Main
 	    Scanner scanner = new Scanner(System.in);
 	    System.out.print("Insira a quantidade de alunos: ");
 	    int quantAlunos = scanner.nextInt();
-	    double notas[] = new double[quantAlunos];
+	    double[] notas = new double[quantAlunos];
 	    double somaNotas = 0;
 	    for(int i = 0; i<quantAlunos;i++){
 	        System.out.print("Insira a nota do aluno "+(i+1) +": ");
