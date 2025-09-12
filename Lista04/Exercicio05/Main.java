@@ -34,6 +34,6 @@ public class Main
 	    if(!encontrado){
 	        System.out.println("Numero não encontrado dentro do Array!");
 	    }
-		
+		scanner.close();
 	}
 }
